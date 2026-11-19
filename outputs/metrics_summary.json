@@ -1,0 +1,36 @@
+{
+  "task": "extractive question answering (SQuAD v2)",
+  "eval_samples": 100,
+  "metric_direction": {
+    "exact_match": "higher is better",
+    "f1": "higher is better (PRIMARY)",
+    "has_ans_f1": "higher is better",
+    "no_ans_accuracy": "higher is better",
+    "avg_latency_ms": "lower is better",
+    "total_inference_s": "lower is better"
+  },
+  "A": {
+    "hf_model_id": "deepset/minilm-uncased-squad2",
+    "exact_match": 80.0,
+    "f1": 83.1,
+    "has_ans_f1": 83.54,
+    "no_ans_accuracy": 82.69,
+    "avg_latency_ms": 54.61,
+    "total_inference_s": 5.461
+  },
+  "B": {
+    "hf_model_id": "deepset/roberta-base-squad2",
+    "exact_match": 79.0,
+    "f1": 82.3,
+    "has_ans_f1": 86.04,
+    "no_ans_accuracy": 78.85,
+    "avg_latency_ms": 151.25,
+    "total_inference_s": 15.125
+  },
+  "decision": {
+    "winner": "A",
+    "delta": -0.8,
+    "latency_ratio": 2.77,
+    "reason": "Difference -0.8 is within the 2.0-point margin; tie-breaker picks the faster model"
+  }
+}

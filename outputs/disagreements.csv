@@ -1,0 +1,6 @@
+id,question,references,prediction_A,f1_A,prediction_B,f1_B,comment
+5a1c8ea7b4fb5d00187146d1,In what year were there 5751 Filipinos in Jacksonville,<no answer>,<no answer>,1.0,2000,0.0,
+5733a2a9d058e614000b5f2b,What does the Zachęta National Gallery of Art organize exhibitions of art from?,Polish and international artists | modern art by Polish and international artists | Polish and international artists a,mid-19th century,0.0,Polish and international artists,1.0,
+5ad3cc47604f3c001a3ff146,What product was notably shipped in vessels equipped with double and triple replacement engines?,<no answer>,coal,0.0,<no answer>,1.0,
+5ad26235d7d075001a429082,What is AlO?,<no answer>,<no answer>,1.0,aluminium oxide,0.0,
+5a81f28431013a001a334fb5,How many billionaires are now living in Cambridge?,<no answer>,<no answer>,1.0,62,0.0,

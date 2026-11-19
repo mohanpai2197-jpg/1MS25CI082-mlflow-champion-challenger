@@ -1,0 +1,101 @@
+alias,question,answer,score,is_unanswerable,model_version,hf_model_id
+champion,Where is Ramaiah Institute of Technology located?,"Mathikere, Bengaluru",0.5214,False,1,deepset/minilm-uncased-squad2
+champion,Who founded Ramaiah Institute of Technology?,Dr. M. S. Ramaiah,0.9861,False,1,deepset/minilm-uncased-squad2
+champion,What does MLflow use to point to the current best model?,model aliases,0.9796,False,1,deepset/minilm-uncased-squad2
+champion,How long is the bus journey from Bengaluru to Udupi?,nine hours,0.6972,False,1,deepset/minilm-uncased-squad2
+champion,What is the capital of Australia?,<no answer>,0.9837,True,1,deepset/minilm-uncased-squad2
+champion,Which metric is lower-is-better for speech recognition?,Word error rate,0.9356,False,1,deepset/minilm-uncased-squad2
+champion,When did Chandrayaan-3 land on the Moon?,23 August 2023,0.9409,False,1,deepset/minilm-uncased-squad2
+champion,What river flows past the town of Belman?,<no answer>,0.9699,True,1,deepset/minilm-uncased-squad2
+champion,What database backend does MLflow support for local registry storage?,"sqlite, postgresql, and mysql",0.6496,False,1,deepset/minilm-uncased-squad2
+champion,What tool is used for tracking machine learning experiments in this lab?,MLflow,0.9878,False,1,deepset/minilm-uncased-squad2
+champion,What component in MLflow stores registered model versions and their aliases?,Model Registry,0.9664,False,1,deepset/minilm-uncased-squad2
+champion,What optimization algorithm is standard for training BERT models?,AdamW optimizer,0.4757,False,1,deepset/minilm-uncased-squad2
+champion,What is the learning rate used to fine-tune the BERT model?,<no answer>,0.3999,True,1,deepset/minilm-uncased-squad2
+champion,What parameter controls the maximum token count fed into the transformer?,max_seq_len,0.9001,False,1,deepset/minilm-uncased-squad2
+champion,What is the stride value used to split long passages into overlapping chunks?,128 tokens,0.819,False,1,deepset/minilm-uncased-squad2
+champion,What format does mlflow pyfunc use to package Python models?,flavor,0.3563,False,1,deepset/minilm-uncased-squad2
+champion,Which file contains the environment specification for Conda in MLflow models?,<no answer>,0.274,True,1,deepset/minilm-uncased-squad2
+champion,What metric measures exact character-for-character agreement with the reference answer?,Exact match,0.1835,False,1,deepset/minilm-uncased-squad2
+champion,What does token-level F1 score evaluate in extractive QA?,<no answer>,0.8334,True,1,deepset/minilm-uncased-squad2
+champion,What framework was developed by Google DeepMind for neural network evaluation?,<no answer>,0.4456,True,1,deepset/minilm-uncased-squad2
+champion,What command starts the MLflow tracking UI on the default port?,<no answer>,0.8116,True,1,deepset/minilm-uncased-squad2
+champion,What protocol does HTTP use by default at the transport layer?,<no answer>,0.8942,True,1,deepset/minilm-uncased-squad2
+champion,Who created the Python programming language?,Guido van Rossum,0.9888,False,1,deepset/minilm-uncased-squad2
+champion,In what year was the first version of Python released?,1991,0.9862,False,1,deepset/minilm-uncased-squad2
+champion,What is the default port for PostgreSQL servers?,5432,0.5832,False,1,deepset/minilm-uncased-squad2
+champion,What sorting algorithm has an average time complexity of O(n log n)?,<no answer>,0.9255,True,1,deepset/minilm-uncased-squad2
+champion,What company originally developed the Git version control system?,Linus Torvalds,0.9631,False,1,deepset/minilm-uncased-squad2
+champion,What programming language was Linux written in?,C,0.9389,False,1,deepset/minilm-uncased-squad2
+champion,What data structure operates on a Last-In First-Out principle?,<no answer>,0.6848,True,1,deepset/minilm-uncased-squad2
+champion,What command in Git creates a new branch and switches to it?,checkout -b or git switch -c,0.3328,False,1,deepset/minilm-uncased-squad2
+champion,What year was the C++ programming language created?,1983,0.9572,False,1,deepset/minilm-uncased-squad2
+champion,Who invented the World Wide Web in 1989?,Tim Berners-Lee,0.9913,False,1,deepset/minilm-uncased-squad2
+champion,What is the maximum payload size for a standard Ethernet frame?,1500 bytes,0.9504,False,1,deepset/minilm-uncased-squad2
+champion,What does the acronym REST stand for in web architecture?,Representational State Transfer,0.988,False,1,deepset/minilm-uncased-squad2
+champion,What encryption algorithm is commonly used for secure web browsing over HTTPS?,AES,0.322,False,1,deepset/minilm-uncased-squad2
+champion,Where is the headquarters of ISRO located?,"Bengaluru, Karnataka",0.8426,False,1,deepset/minilm-uncased-squad2
+champion,Who was the first chairman of ISRO?,Dr. Vikram Sarabhai,0.663,False,1,deepset/minilm-uncased-squad2
+champion,In which year was the Indian Institute of Science established?,1909,0.9988,False,1,deepset/minilm-uncased-squad2
+champion,What river flows through the city of Varanasi?,Ganges river,0.6907,False,1,deepset/minilm-uncased-squad2
+champion,What is the highest mountain peak located entirely within India?,Nanda Devi,0.9932,False,1,deepset/minilm-uncased-squad2
+champion,Who was the architect who designed the Vidhana Soudha in Bengaluru?,Kengal Hanumanthaiah,0.8831,False,1,deepset/minilm-uncased-squad2
+champion,Which national park in Assam is famous for the one-horned rhinoceros?,Kaziranga National Park,0.7197,False,1,deepset/minilm-uncased-squad2
+champion,What is the state animal of Karnataka?,Indian elephant,0.9053,False,1,deepset/minilm-uncased-squad2
+champion,What dam is built across the Kaveri river in Mandya district?,Krishna Raja Sagara dam,0.4932,False,1,deepset/minilm-uncased-squad2
+champion,On what date is National Engineers Day celebrated in India?,15 September,0.9898,False,1,deepset/minilm-uncased-squad2
+champion,What scientific laboratory did C. V. Raman establish in Bangalore?,Raman Research Institute,0.8168,False,1,deepset/minilm-uncased-squad2
+champion,For what discovery did C. V. Raman win the Nobel Prize in Physics?,the Raman effect,0.569,False,1,deepset/minilm-uncased-squad2
+champion,Which port is the oldest major port on the western coast of Karnataka?,New Mangalore Port,0.3605,False,1,deepset/minilm-uncased-squad2
+champion,What hill station in Karnataka is renowned as the Coffee Land?,Chikkamagaluru,0.9982,False,1,deepset/minilm-uncased-squad2
+champion,What temple town is situated at the source of the river Tunga?,Sringeri,0.8141,False,1,deepset/minilm-uncased-squad2
+champion,What is the chemical symbol for the element Gold?,Au,0.9903,False,1,deepset/minilm-uncased-squad2
+champion,What particle carries a negative electric charge in an atom?,electrons,0.99,False,1,deepset/minilm-uncased-squad2
+champion,What is the speed of light in a vacuum in metres per second?,299792458,0.9369,False,1,deepset/minilm-uncased-squad2
+champion,What gas makes up approximately 78 percent of Earth's atmosphere?,nitrogen,0.9957,False,1,deepset/minilm-uncased-squad2
+champion,What organ in the human body produces insulin?,pancreas,0.5969,False,1,deepset/minilm-uncased-squad2
+champion,What is the powerhouse organelle of the eukaryotic cell?,Mitochondria,0.9883,False,1,deepset/minilm-uncased-squad2
+champion,What is the boiling point of pure water at standard atmospheric pressure?,100 degrees Celsius,0.6482,False,1,deepset/minilm-uncased-squad2
+champion,Who proposed the general theory of relativity in 1915?,Albert Einstein,0.8928,False,1,deepset/minilm-uncased-squad2
+champion,What planet in our solar system has the highest number of confirmed moons?,<no answer>,0.8735,True,1,deepset/minilm-uncased-squad2
+champion,What is the primary mineral that makes up limestone and marble?,calcite,0.7233,False,1,deepset/minilm-uncased-squad2
+champion,What type of chemical bond involves the sharing of electron pairs between atoms?,covalent bond,0.3289,False,1,deepset/minilm-uncased-squad2
+champion,What is the pH value of a neutral aqueous solution at 25 degrees Celsius?,7.0,0.9837,False,1,deepset/minilm-uncased-squad2
+champion,What biological process converts light energy into chemical energy in plants?,Photosynthesis,0.9984,False,1,deepset/minilm-uncased-squad2
+champion,What is the closest star to Earth?,The Sun,0.3728,False,1,deepset/minilm-uncased-squad2
+champion,What blood cells are responsible for carrying oxygen throughout the body?,Red blood cells,0.7983,False,1,deepset/minilm-uncased-squad2
+champion,In what year did the Apollo 11 mission land humans on the Moon?,1969,0.9952,False,1,deepset/minilm-uncased-squad2
+champion,What is the longest river in the world?,The Nile,0.191,False,1,deepset/minilm-uncased-squad2
+champion,What is the capital city of Japan?,Tokyo,0.9924,False,1,deepset/minilm-uncased-squad2
+champion,In what country was the ancient city of Machu Picchu built?,Peru,0.9962,False,1,deepset/minilm-uncased-squad2
+champion,What desert is the largest hot desert in the world?,The Sahara,0.5968,False,1,deepset/minilm-uncased-squad2
+champion,What wall was constructed to protect northern China from nomadic invasions?,The Great Wall of China,0.5811,False,1,deepset/minilm-uncased-squad2
+champion,Who was the first president of the United States?,George Washington,0.9851,False,1,deepset/minilm-uncased-squad2
+champion,What is the currency of the United Kingdom?,The pound sterling,0.61,False,1,deepset/minilm-uncased-squad2
+champion,What strait separates the continents of Europe and Africa?,The Strait of Gibraltar,0.2432,False,1,deepset/minilm-uncased-squad2
+champion,In what city is the Colosseum located?,Rome,0.9386,False,1,deepset/minilm-uncased-squad2
+champion,What is the capital of Canada?,Toronto,0.96,False,1,deepset/minilm-uncased-squad2
+champion,What treaty ended World War I in 1919?,Treaty of Versailles,0.5506,False,1,deepset/minilm-uncased-squad2
+champion,What is the deepest oceanic trench in the world?,<no answer>,0.1253,True,1,deepset/minilm-uncased-squad2
+champion,Who painted the ceiling of the Sistine Chapel?,Michelangelo,0.9964,False,1,deepset/minilm-uncased-squad2
+champion,What ancient wonder was located in Alexandria Egypt?,The Lighthouse,0.4351,False,1,deepset/minilm-uncased-squad2
+champion,What loss function is standard for multi-class classification problems?,Categorical cross-entropy loss,0.6991,False,1,deepset/minilm-uncased-squad2
+champion,What technique prevents overfitting by randomly deactivating neurons during training?,Dropout,0.7936,False,1,deepset/minilm-uncased-squad2
+champion,What does the acronym GPU stand for?,Graphics Processing Unit,0.7105,False,1,deepset/minilm-uncased-squad2
+champion,What Python library is commonly used for data manipulation and analysis in table format?,Pandas,0.9753,False,1,deepset/minilm-uncased-squad2
+champion,What company created the PyTorch machine learning library?,Meta AI Research lab,0.6553,False,1,deepset/minilm-uncased-squad2
+champion,What company released the TensorFlow framework in 2015?,Google,0.9429,False,1,deepset/minilm-uncased-squad2
+champion,What token signifies the start of a sentence in BERT tokenizers?,[CLS] classification,0.2444,False,1,deepset/minilm-uncased-squad2
+champion,What attention mechanism allows transformers to process words in relation to all other words?,self-attention,0.3871,False,1,deepset/minilm-uncased-squad2
+champion,What is the standard dimensionality of embeddings in RoBERTa-base?,768 hidden dimensions,0.4567,False,1,deepset/minilm-uncased-squad2
+champion,What learning rate scheduler decreases learning rate linearly to zero?,linear decay,0.4334,False,1,deepset/minilm-uncased-squad2
+champion,Who is the CEO of OpenAI in 2024?,<no answer>,0.9998,True,1,deepset/minilm-uncased-squad2
+champion,What format is used for persisting serialized models in PyTorch?,<no answer>,0.7865,True,1,deepset/minilm-uncased-squad2
+champion,What license governs the use of Hugging Face Transformers library?,Apache,0.4724,False,1,deepset/minilm-uncased-squad2
+champion,What SQuAD evaluation metric checks if prediction and reference have identical non-empty answers?,Exact Match,0.7593,False,1,deepset/minilm-uncased-squad2
+champion,What does the term zero-shot learning mean in artificial intelligence?,a model's ability to complete a task without prior explicit training examples for it,0.2716,False,1,deepset/minilm-uncased-squad2
+champion,What database system is SQLite classified as?,SQL,0.4843,False,1,deepset/minilm-uncased-squad2
+champion,What algorithm does k-means use to cluster data points?,iteratively updating centroids,0.3774,False,1,deepset/minilm-uncased-squad2
+champion,What is the primary programming language of the Linux terminal bash shell?,C,0.8257,False,1,deepset/minilm-uncased-squad2
+champion,What is the purpose of the doc_stride parameter in tokenization?,ensures adjacent sliding windows overlap so answers across split boundaries are not missed,0.5831,False,1,deepset/minilm-uncased-squad2
+champion,What year was the landmark paper Attention Is All You Need published?,2017,0.9969,False,1,deepset/minilm-uncased-squad2

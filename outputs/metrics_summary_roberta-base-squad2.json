@@ -1,0 +1,9 @@
+{
+  "hf_model_id": "deepset/roberta-base-squad2",
+  "exact_match": 79.0,
+  "f1": 82.3,
+  "has_ans_f1": 86.04,
+  "no_ans_accuracy": 78.85,
+  "avg_latency_ms": 151.25,
+  "total_inference_s": 15.125
+}
