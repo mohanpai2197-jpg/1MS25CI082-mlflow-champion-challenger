@@ -4,6 +4,6 @@
   "f1": 82.3,
   "has_ans_f1": 86.04,
   "no_ans_accuracy": 78.85,
-  "avg_latency_ms": 151.25,
-  "total_inference_s": 15.125
+  "avg_latency_ms": 153.6,
+  "total_inference_s": 15.36
 }
