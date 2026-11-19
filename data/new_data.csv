@@ -1,0 +1,101 @@
+question,context
+Where is Ramaiah Institute of Technology located?,"Ramaiah Institute of Technology is an engineering college in Mathikere, Bengaluru."
+Who founded Ramaiah Institute of Technology?,"Ramaiah Institute of Technology was founded by Dr. M. S. Ramaiah in Bangalore."
+What does MLflow use to point to the current best model?,MLflow uses model aliases to point to the current best model in the Model Registry.
+How long is the bus journey from Bengaluru to Udupi?,"The road distance for the bus journey from Bengaluru to Udupi is 400 kilometres, taking about nine hours."
+What is the capital of Australia?,Australia is a country and continent surrounded by the Indian and Pacific oceans.
+Which metric is lower-is-better for speech recognition?,Word error rate is lower-is-better for speech recognition accuracy.
+When did Chandrayaan-3 land on the Moon?,The Chandrayaan-3 lander touched down on the Moon on 23 August 2023.
+What river flows past the town of Belman?,"Belman is a small historic village in Karkala taluk of Udupi district in Karnataka, India."
+What database backend does MLflow support for local registry storage?,"For storing metadata locally, MLflow supports sqlite, postgresql, and mysql as backend stores."
+What tool is used for tracking machine learning experiments in this lab?,MLflow is an open-source platform for managing the machine learning lifecycle including experiment tracking.
+What component in MLflow stores registered model versions and their aliases?,The MLflow Model Registry stores registered model versions and their associated aliases.
+What optimization algorithm is standard for training BERT models?,"The AdamW optimizer, which decouples weight decay, is the standard training optimizer for BERT."
+What is the learning rate used to fine-tune the BERT model?,BERT was pre-trained on BookCorpus and English Wikipedia using masked language modeling objectives.
+What parameter controls the maximum token count fed into the transformer?,max_seq_len defines the maximum sequence length processed by the transformer.
+What is the stride value used to split long passages into overlapping chunks?,"doc_stride specifies the overlapping window size between consecutive chunks, set to 128 tokens."
+What format does mlflow pyfunc use to package Python models?,The MLflow pyfunc flavor provides a generic Python function model flavor that encapsulates Python code.
+Which file contains the environment specification for Conda in MLflow models?,"MLflow models package their runtime dependencies in conda.yaml, requirements.txt, and MLmodel."
+What metric measures exact character-for-character agreement with the reference answer?,"Exact match scores 1.0 if the predicted normalized string exactly matches the reference, and 0.0 otherwise."
+What does token-level F1 score evaluate in extractive QA?,The F1 score measures the harmonic mean of precision and recall based on shared words between prediction and reference.
+What framework was developed by Google DeepMind for neural network evaluation?,"PyTorch and TensorFlow are popular open-source libraries for deep learning, while JAX offers composable function transformations."
+What command starts the MLflow tracking UI on the default port?,The MLflow server can be started using the command python -m mlflow server with host and port flags.
+What protocol does HTTP use by default at the transport layer?,"HTTP operates at the application layer, running over the Transmission Control Protocol (TCP)."
+Who created the Python programming language?,"Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde and Informatica in the Netherlands."
+In what year was the first version of Python released?,"Guido van Rossum published Python version 0.9.0 in February 1991, featuring classes with inheritance."
+What is the default port for PostgreSQL servers?,PostgreSQL listens for client TCP connections on port 5432 by default.
+What sorting algorithm has an average time complexity of O(n log n)?,Merge sort is a divide-and-conquer algorithm with a guaranteed time complexity of O(n log n).
+What company originally developed the Git version control system?,Git was created by Linus Torvalds in 2005 for development of the Linux kernel.
+What programming language was Linux written in?,"The Linux kernel is written mainly in C with GCC extensions, along with a small amount of assembly."
+What data structure operates on a Last-In First-Out principle?,"A stack is an abstract data type with two principal operations push and pop, adhering to LIFO order."
+What command in Git creates a new branch and switches to it?,Developers use git checkout -b or git switch -c to create a new branch and immediately check it out.
+What year was the C++ programming language created?,"Bjarne Stroustrup began work on C with Classes in 1979 at Bell Labs, renamed to C++ in 1983."
+Who invented the World Wide Web in 1989?,Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN.
+What is the maximum payload size for a standard Ethernet frame?,The standard Ethernet frame format specifies a maximum transmission unit payload of 1500 bytes.
+What does the acronym REST stand for in web architecture?,Representational State Transfer (REST) is a software architectural style for creating web services.
+What encryption algorithm is commonly used for secure web browsing over HTTPS?,TLS commonly uses AES with 128-bit or 256-bit keys for symmetric session encryption.
+Where is the headquarters of ISRO located?,"ISRO is headquartered in Bengaluru, Karnataka, operating under the Department of Space."
+Who was the first chairman of ISRO?,Dr. Vikram Sarabhai is regarded as the father of the Indian space program and founding chairman of ISRO.
+In which year was the Indian Institute of Science established?,The Indian Institute of Science was established in Bengaluru in 1909 with support from Jamsetji Tata.
+What river flows through the city of Varanasi?,"Varanasi is a major sacred city on the banks of the Ganges river in Uttar Pradesh, northern India."
+What is the highest mountain peak located entirely within India?,Nanda Devi is the highest mountain peak located entirely within Indian territory.
+Who was the architect who designed the Vidhana Soudha in Bengaluru?,The Vidhana Soudha was constructed between 1951 and 1956 under Chief Minister Kengal Hanumanthaiah.
+Which national park in Assam is famous for the one-horned rhinoceros?,"Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceros population, a UNESCO World Heritage Site."
+What is the state animal of Karnataka?,"The state animal of Karnataka is the Indian elephant, while the Indian roller is its state bird."
+What dam is built across the Kaveri river in Mandya district?,"The Krishna Raja Sagara dam, engineered by Sir M. Visvesvaraya, spans the Kaveri river."
+On what date is National Engineers Day celebrated in India?,India celebrates National Engineers Day on 15 September to commemorate Sir M. Visvesvaraya.
+What scientific laboratory did C. V. Raman establish in Bangalore?,Sir C. V. Raman founded the Raman Research Institute in Bangalore in 1948.
+For what discovery did C. V. Raman win the Nobel Prize in Physics?,Sir C. V. Raman was awarded the 1930 Nobel Prize in Physics for the Raman effect.
+Which port is the oldest major port on the western coast of Karnataka?,"New Mangalore Port is an all-weather deep-water port at Panambur, serving as Karnataka's maritime gateway."
+What hill station in Karnataka is renowned as the Coffee Land?,"Chikkamagaluru is in the foothills of the Western Ghats, widely known as the Coffee Land of Karnataka."
+What temple town is situated at the source of the river Tunga?,"Sringeri, nestled in the Western Ghats, is famous for the Sri Sharada Peetham established by Adi Shankaracharya."
+What is the chemical symbol for the element Gold?,"Gold is a transition metal with the chemical symbol Au, derived from the Latin word aurum, with atomic number 79."
+What particle carries a negative electric charge in an atom?,"An atom consists of a nucleus with protons and neutrons, surrounded by negatively charged electrons."
+What is the speed of light in a vacuum in metres per second?,"The speed of light in vacuum, denoted c, is exactly 299792458 metres per second."
+What gas makes up approximately 78 percent of Earth's atmosphere?,"Earth's atmosphere is about 78 percent nitrogen, 21 percent oxygen, and 0.9 percent argon."
+What organ in the human body produces insulin?,The pancreas secretes digestive enzymes and hormones including insulin and glucagon.
+What is the powerhouse organelle of the eukaryotic cell?,Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions.
+What is the boiling point of pure water at standard atmospheric pressure?,"At standard atmospheric pressure, pure water boils at 100 degrees Celsius (212 degrees Fahrenheit)."
+Who proposed the general theory of relativity in 1915?,Albert Einstein published his general theory of relativity in November 1915.
+What planet in our solar system has the highest number of confirmed moons?,"Jupiter is the largest planet in our solar system, with a thick atmosphere of hydrogen and helium."
+What is the primary mineral that makes up limestone and marble?,"Limestone and marble are primarily composed of calcite and aragonite, crystal forms of calcium carbonate."
+What type of chemical bond involves the sharing of electron pairs between atoms?,A covalent bond involves the sharing of electrons between atoms to form electron pairs.
+What is the pH value of a neutral aqueous solution at 25 degrees Celsius?,"Pure water at 25 degrees Celsius has a neutral pH of 7.0, where hydrogen and hydroxide ion concentrations are equal."
+What biological process converts light energy into chemical energy in plants?,Photosynthesis converts light energy into chemical energy stored in carbohydrate molecules.
+What is the closest star to Earth?,"The Sun is the star at the center of the Solar System, about 149.6 million kilometres from Earth."
+What blood cells are responsible for carrying oxygen throughout the body?,"Red blood cells, or erythrocytes, contain haemoglobin and transport oxygen from the lungs to tissues."
+In what year did the Apollo 11 mission land humans on the Moon?,"Apollo 11 first landed humans on the Moon on 20 July 1969, commanded by Neil Armstrong."
+What is the longest river in the world?,The Nile flows northward through northeastern Africa for approximately 6650 kilometres.
+What is the capital city of Japan?,"Tokyo is the capital and most populous prefecture of Japan, on the eastern coast of Honshu."
+In what country was the ancient city of Machu Picchu built?,Machu Picchu is a 15th-century Inca citadel on a mountain ridge in the Cusco Region of Peru.
+What desert is the largest hot desert in the world?,"The Sahara is the largest hot desert, covering 9.2 million square kilometres across Northern Africa."
+What wall was constructed to protect northern China from nomadic invasions?,The Great Wall of China is a series of fortifications across the historical northern borders of China.
+Who was the first president of the United States?,George Washington served as the first president of the United States from 1789 to 1797.
+What is the currency of the United Kingdom?,"The pound sterling, commonly called the pound, is the official currency of the United Kingdom."
+What strait separates the continents of Europe and Africa?,The Strait of Gibraltar connects the Atlantic Ocean to the Mediterranean Sea and separates Spain from Morocco.
+In what city is the Colosseum located?,"The Colosseum is an oval amphitheatre in the centre of Rome, Italy, built under the Flavian emperors."
+What is the capital of Canada?,"Canada is divided into ten provinces and three territories, with Toronto as its financial centre."
+What treaty ended World War I in 1919?,"The Treaty of Versailles was signed in June 1919, bringing World War I to an end."
+What is the deepest oceanic trench in the world?,"The Mariana Trench contains Challenger Deep, the deepest known point at nearly 11000 metres."
+Who painted the ceiling of the Sistine Chapel?,"Michelangelo painted the Sistine Chapel ceiling in the Vatican, completing it between 1508 and 1512."
+What ancient wonder was located in Alexandria Egypt?,The Lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.
+What loss function is standard for multi-class classification problems?,Categorical cross-entropy loss is used for training models to classify mutually exclusive categories.
+What technique prevents overfitting by randomly deactivating neurons during training?,"Dropout randomly ignores selected neurons during training, preventing complex co-adaptations."
+What does the acronym GPU stand for?,A Graphics Processing Unit (GPU) is a specialized circuit for accelerating computation.
+What Python library is commonly used for data manipulation and analysis in table format?,"Pandas is a data analysis and manipulation tool built on Python, providing DataFrame objects."
+What company created the PyTorch machine learning library?,PyTorch was developed primarily by Meta AI Research lab (FAIR) and is maintained under the Linux Foundation.
+What company released the TensorFlow framework in 2015?,TensorFlow was developed by the Google Brain team and released under the Apache 2.0 license in November 2015.
+What token signifies the start of a sentence in BERT tokenizers?,"BERT uses the [CLS] classification token at the start of each input sequence, while [SEP] separates sentences."
+What attention mechanism allows transformers to process words in relation to all other words?,The self-attention mechanism enables the model to weigh the relevance of different words in a sequence.
+What is the standard dimensionality of embeddings in RoBERTa-base?,"RoBERTa-base uses 12 hidden layers, 768 hidden dimensions, and 12 attention heads."
+What learning rate scheduler decreases learning rate linearly to zero?,A linear decay schedule gradually reduces the learning rate from the initial peak down to zero.
+Who is the CEO of OpenAI in 2024?,OpenAI is an artificial intelligence research laboratory founded in San Francisco in December 2015.
+What format is used for persisting serialized models in PyTorch?,"PyTorch models save weights using .pt or .pth files, or the safer safetensors format."
+What license governs the use of Hugging Face Transformers library?,Hugging Face Transformers is distributed under the Apache License 2.0.
+What SQuAD evaluation metric checks if prediction and reference have identical non-empty answers?,Exact Match gives a binary score of 1 if the predicted answer matches any gold reference after normalization.
+What does the term zero-shot learning mean in artificial intelligence?,Zero-shot learning is a model's ability to complete a task without prior explicit training examples for it.
+What database system is SQLite classified as?,"SQLite is a self-contained, serverless, full-featured SQL database engine written in C."
+What algorithm does k-means use to cluster data points?,K-means partitions observations into k clusters by iteratively updating centroids to minimize within-cluster variance.
+What is the primary programming language of the Linux terminal bash shell?,Bash is an sh-compatible Unix shell written in C that executes commands from standard input or scripts.
+What is the purpose of the doc_stride parameter in tokenization?,doc_stride ensures adjacent sliding windows overlap so answers across split boundaries are not missed.
+What year was the landmark paper Attention Is All You Need published?,"The paper Attention Is All You Need by Vaswani et al. was published in 2017, introducing the Transformer."

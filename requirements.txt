@@ -1,0 +1,8 @@
+mlflow>=2.14
+transformers>=4.44,<5 # v5 removed the question-answering pipeline
+torch>=2.2
+datasets>=2.14
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
